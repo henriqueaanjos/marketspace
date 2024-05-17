@@ -1,0 +1,38 @@
+{
+	"id": "0cb62eb5-e0b7-48d5-8802-dc8c17b3b7e9",
+	"name": "Batom Mac",
+	"price": 125,
+	"is_new": true,
+	"accept_trade": false,
+	"product_images": [
+		{
+			"path": "0c0bae0c8e9ad889a51c-batom mac.jpg",
+			"id": "efbf6421-dc86-4016-9f67-a500783b7221"
+		},
+		{
+			"path": "b727b003b162f14ad24b-batom mac.jpg",
+			"id": "f0be2fb5-883a-45cc-98bf-47c50c587549"
+		}
+	],
+	"payment_methods": [
+		{
+			"key": "deposit",
+			"name": "Depósito Bancário"
+		},
+		{
+			"key": "pix",
+			"name": "Pix"
+		},
+		{
+			"key": "cash",
+			"name": "Dinheiro"
+		},
+		{
+			"key": "boleto",
+			"name": "Boleto"
+		}
+	],
+	"user": {
+		"avatar": "cdeb3da9d321122c8078-mariana feitosa.png"
+	}
+}
